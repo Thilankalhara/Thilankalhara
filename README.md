@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding from Birmingham city university
 - 💞️ I’m looking to collaborate on any coding team
-- 📫 How to reach me thilanthilan7@gmail.com/ discord = .thilan.
+- 📫 How to reach me  discord = .thilan. https://discord.com/invite/2NEFSBF3 or thilankalhara8@gmail.com
 - 😄 Pronouns: MR max /Thilan
 - ⚡ Fun fact: just another humen who lives in a life simulator
 
