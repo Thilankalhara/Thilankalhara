@@ -1,7 +1,7 @@
- 👋 Hi, I’m Thilan kalhara
+-👋 Hi, I’m Thilan kalhara
 -🔭 Full-stack developer | Java, React, Node.js ,AI ,IOT  
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning coding from Birmingham city university
+- 🌱 I’m currently undergraduate from Birmingham city university
 - 💞️ I’m looking to collaborate on any coding team
 - 📫 How to reach me  discord = .thilan. https://discord.com/invite/2NEFSBF3 or thilankalhara8@gmail.com
 - 😄 Pronouns: MR max /Thilan
