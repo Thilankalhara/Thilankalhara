@@ -8,6 +8,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FqN3JybXNuNmg1eGl5NjU4a2lhenFoNWhzdGJqN2J4YnM4bTBhZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="500"/>
+</p>
+
+---
+
 ## 🚀 About Me
 - 🎓 Undergraduate Software Engineering Student  
 - 💻 Full-stack developer (Java + React + Node.js)  
