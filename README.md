@@ -22,7 +22,7 @@
 
 - 🧑‍💻 Full-Stack Developer — **Java • React • Node.js**  
 - 🤖 Exploring **AI, Machine Learning & NLP**  
-- 📡 Loves **IoT projects** & real-world problem solving  
+- 📡 Passionate about **IoT projects** & real-world problem solving  
 - 🛠 Building apps that are **fast, scalable & clean**  
 - 📚 Constant learner — every day is a new upgrade  
 
@@ -31,7 +31,7 @@
 ## 🔥 About Me
 
 - 🎓 Undergraduate – Birmingham City University  
-- 🎮 Tech addict who enjoys experimenting with new frameworks  
+- 🎮 Tech addict who loves experimenting with new frameworks  
 - 🤝 Open for collabs on **AI, React, Node.js, or Java projects**  
 - 😄 Nickname: **Max**  
 - ⚡ Fun fact: I fix bugs faster when coffee is involved ☕  
@@ -41,7 +41,7 @@
 ## 🎯 Interests — Obsessions — Goals
 
 - 💡 Productivity & automation  
-- 🧪 Experimenting with AI tools & emerging tech  
+- 🧪 AI tools & emerging tech  
 - 🧘 Mental health awareness supporter  
 - 🎥 Sci-fi & fantasy fan  
 - 🎵 Coding + Music = Perfect combo  
@@ -88,7 +88,7 @@ Git • MySQL • MongoDB • Postman • VS Code • IntelliJ • NetBeans • 
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thilankalhara&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Thilankalhara&theme=radical" />
 </p>
 
 ---
