@@ -8,13 +8,6 @@
 
 ---
 
-!-- Typing Animation Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Thilan+Kalhara+%F0%9F%91%8B;Full-Stack+Developer;AI+%7C+React+%7C+Node.js+%7C+Java;Turning+Curiosity+Into+Code+%E2%9A%A1" />
-</p>
-
----
-
 ## 🚀 About Me
 - 🎓 Undergraduate Software Engineering Student  
 - 💻 Full-stack developer (Java + React + Node.js)  
