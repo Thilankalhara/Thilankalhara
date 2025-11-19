@@ -81,10 +81,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thilankalhara/">
+  <a href="www.linkedin.com/in/thilan-kalhara-06a9b723a">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
-  <a href="mailto:thilankalhara2004@gmail.com">
+  <a href="mailto:thilankalhara8@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
 </p>
