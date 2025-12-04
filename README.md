@@ -59,7 +59,7 @@
 
 ---
 
-## 🔥 Streak Stats (Fixed & Working)
+## 🔥 Streak Stats
 
 <p align="center">
   <img 
