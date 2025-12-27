@@ -47,36 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thilankalhara&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilankalhara&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Thilankalhara&theme=radical&border_radius=10&date_format=j%20M%5B%20Y%5D" 
-    alt="GitHub Streak" 
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thilankalhara&theme=dracula&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
