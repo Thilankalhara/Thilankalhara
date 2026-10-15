@@ -3,9 +3,7 @@
 </p><p align="center">
   <a href="https://github.com/Thilankalhara">
     <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=Thilankalhara&color=blue&style=plastic" alt="Profile views"/> 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thilankalhara&color=blue&style=plastic" alt="Profile views"/>
+   src="https://komarev.com/ghpvc/?username=Thilankalhara&color=blue&style=plastic" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/Thilankalhara?style=plastic&color=blue&logo=github" alt="GitHub Followers"/>
 </p>
 </p><p align="center">
