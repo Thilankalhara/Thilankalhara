@@ -4,7 +4,10 @@
   <a href="https://github.com/Thilankalhara">
     <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=Thilankalhara&color=blue&style=plastic" alt="Profile views"/> 
-  <img src="https://img.shields.io/github/followers/Thilankalhara?style=for-the-badge&color=blue&logo=github" alt="GitHub Followers"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Thilankalhara&color=blue&style=plastic" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Thilankalhara?style=plastic&color=blue&logo=github" alt="GitHub Followers"/>
+</p>
 </p><p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FqN3JybXNuNmg1eGl5NjU4a2lhenFoNWhzdGJqN2J4YnM4bTBhZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="500" alt="Coding Animation"/>
 </p>---
