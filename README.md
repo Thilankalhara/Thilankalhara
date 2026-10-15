@@ -1,9 +1,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Thilan+Kalhara+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Java+%7C+React+%7C+Node.js;AI+%7C+IoT+%7C+Cloud+Computing;Building+The+Future+With+Code+%E2%9A%A1" alt="Typing SVG" />
-</p><p align="center">
+</p>
+
+<p align="center">
   <a href="https://github.com/Thilankalhara">
-    <p align="center">  
-   src="https://komarev.com/ghpvc/?username=Thilankalhara&color=blue&style=plastic" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=Thilankalhara&color=blue&style=plastic" alt="Profile views"/>
+    <img src="https://img.shields.io/github/followers/Thilankalhara?style=plastic&color=blue&logo=github" alt="GitHub Followers"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FqN3JybXNuNmg1eGl5NjU4a2lhenFoNWhzdGJqN2J4YnM4bTBhZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="500" alt="Coding Animation"/>
+</p>
   <img src="https://img.shields.io/github/followers/Thilankalhara?style=plastic&color=blue&logo=github" alt="GitHub Followers"/>
 </p>
 </p><p align="center">
